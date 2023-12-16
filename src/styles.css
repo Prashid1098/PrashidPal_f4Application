@@ -1,0 +1,34 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form
+{
+    margin:30vh 0vw 0vh 40vw;
+    font-weight: bold;
+    font-size: 17px;
+}
+form input
+{
+    width: 24vw;
+    height: 5vh;
+    border-radius: 8px;
+    border-color: red;
+    margin: 0.8vh;
+}
+button 
+{
+    padding: 7px 16px;
+    background-color: rgb(9,109,243);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    font-size: 18px;
+    margin-left: 7vw;
+}
+button:hover
+{
+    cursor: pointer;
+}
